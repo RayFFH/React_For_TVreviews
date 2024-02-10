@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/React_For_TVreviews/static/css/main.3f1e6b09.css",
+    "main.js": "/React_For_TVreviews/static/js/main.d33e14e8.js",
+    "reactPlayerYouTube.js": "/React_For_TVreviews/static/js/reactPlayerYouTube.0d60f6d0.chunk.js",
+    "reactPlayerSoundCloud.js": "/React_For_TVreviews/static/js/reactPlayerSoundCloud.d92c4073.chunk.js",
+    "reactPlayerVimeo.js": "/React_For_TVreviews/static/js/reactPlayerVimeo.7138c981.chunk.js",
+    "reactPlayerFacebook.js": "/React_For_TVreviews/static/js/reactPlayerFacebook.e3abb577.chunk.js",
+    "reactPlayerStreamable.js": "/React_For_TVreviews/static/js/reactPlayerStreamable.970b410b.chunk.js",
+    "reactPlayerWistia.js": "/React_For_TVreviews/static/js/reactPlayerWistia.8177f5f4.chunk.js",
+    "reactPlayerTwitch.js": "/React_For_TVreviews/static/js/reactPlayerTwitch.0761b51a.chunk.js",
+    "reactPlayerDailyMotion.js": "/React_For_TVreviews/static/js/reactPlayerDailyMotion.b59839c4.chunk.js",
+    "reactPlayerMixcloud.js": "/React_For_TVreviews/static/js/reactPlayerMixcloud.87a64ef2.chunk.js",
+    "reactPlayerVidyard.js": "/React_For_TVreviews/static/js/reactPlayerVidyard.71f00654.chunk.js",
+    "reactPlayerKaltura.js": "/React_For_TVreviews/static/js/reactPlayerKaltura.0b546331.chunk.js",
+    "reactPlayerFilePlayer.js": "/React_For_TVreviews/static/js/reactPlayerFilePlayer.cdf02a41.chunk.js",
+    "reactPlayerPreview.js": "/React_For_TVreviews/static/js/reactPlayerPreview.f674d535.chunk.js",
+    "index.html": "/React_For_TVreviews/index.html",
+    "main.3f1e6b09.css.map": "/React_For_TVreviews/static/css/main.3f1e6b09.css.map",
+    "main.d33e14e8.js.map": "/React_For_TVreviews/static/js/main.d33e14e8.js.map",
+    "reactPlayerYouTube.0d60f6d0.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerYouTube.0d60f6d0.chunk.js.map",
+    "reactPlayerSoundCloud.d92c4073.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerSoundCloud.d92c4073.chunk.js.map",
+    "reactPlayerVimeo.7138c981.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerVimeo.7138c981.chunk.js.map",
+    "reactPlayerFacebook.e3abb577.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerFacebook.e3abb577.chunk.js.map",
+    "reactPlayerStreamable.970b410b.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerStreamable.970b410b.chunk.js.map",
+    "reactPlayerWistia.8177f5f4.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerWistia.8177f5f4.chunk.js.map",
+    "reactPlayerTwitch.0761b51a.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerTwitch.0761b51a.chunk.js.map",
+    "reactPlayerDailyMotion.b59839c4.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerDailyMotion.b59839c4.chunk.js.map",
+    "reactPlayerMixcloud.87a64ef2.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerMixcloud.87a64ef2.chunk.js.map",
+    "reactPlayerVidyard.71f00654.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerVidyard.71f00654.chunk.js.map",
+    "reactPlayerKaltura.0b546331.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerKaltura.0b546331.chunk.js.map",
+    "reactPlayerFilePlayer.cdf02a41.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerFilePlayer.cdf02a41.chunk.js.map",
+    "reactPlayerPreview.f674d535.chunk.js.map": "/React_For_TVreviews/static/js/reactPlayerPreview.f674d535.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f1e6b09.css",
+    "static/js/main.d33e14e8.js"
+  ]
+}
