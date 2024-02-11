@@ -1,6 +1,13 @@
 import axios from 'axios';
 
-export default axios.create({
-    baseURL:'https://tvreviews-1707597591977.azurewebsites.net',
-    //headers: {"ngrok-skip-browser-warning": "true"}
+const api = axios.create({
+    baseURL:'https://localhost:8080',
+
 });
+    
+    //headers: {"ngrok-skip-browser-warning": "true"}
+    api.defaults.headers.common['Access-Control-Allow-Origin'] = 'https://rayffh.github.io/React_For_TVreviews/';
+
+
+    export default api;
+
