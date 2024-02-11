@@ -5,6 +5,6 @@ const api = axios.create({
   });
   
   // Add CORS headers
-  api.defaults.headers.common['Access-Control-Allow-Origin'] = 'localhost:3000';
+  api.defaults.headers.common['Access-Control-Allow-Origin'] = 'https://rayffh.github.io/React_For_TVreviews/';
   
   export default api;
