@@ -1,7 +1,7 @@
 {
   "name": "movie-gold-v1",
   "version": "0.1.0",
-  "homepage": "https://RayFFH.github.io/React_For_TVreviews",
+  "homepage": "https://rayffh.github.io/React_For_TVreviews",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
