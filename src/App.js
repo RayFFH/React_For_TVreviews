@@ -22,6 +22,8 @@ function App() {
 
       const response = await api.get("/api/v1/tvseries");
 
+      console.log("API Response:", response.data);
+
       setMovies(response.data);
 
     } 
